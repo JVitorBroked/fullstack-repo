@@ -1,2 +1,2 @@
-# fullstack-repo
+# fullstack learning
 Repositório para estudo
